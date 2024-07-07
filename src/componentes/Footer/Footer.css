@@ -1,0 +1,33 @@
+.footer {
+  background-color: #6278f7;
+  height: 250px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footer a {
+  width: 24px;
+  height: 24px;
+}
+.footer a img {
+  width: 24px;
+  height: 24px;
+}
+
+.redes-sociales {
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+}
+
+.creditos {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.38px;
+  text-align: right;
+  color: #ffffff;
+}

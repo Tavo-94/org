@@ -1,0 +1,31 @@
+.listaOpciones {
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.94px;
+  text-align: left;
+  color: #212121;
+  width: 100%;
+  margin: 24px 0px;
+
+}
+
+.listaOpciones label {
+  display: block;
+}
+
+.listaOpciones select {
+  background: #ffffff;
+
+  box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.5px;
+  text-align: left;
+
+  width: 100%;
+  padding: 30px 20px;
+  border: none;
+  outline-color: #6278f7;
+}

@@ -1,0 +1,40 @@
+.equipo{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px 0px;
+}
+.equipo input{
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
+
+.equipo h3 {
+  text-align: center;
+  font-family: Prata;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 43.36px;
+  color: #212121;
+  padding: 16px 0;
+  margin-bottom: 40px;
+
+  width: fit-content;
+}
+
+.card-container {
+  margin: 0 auto 0 auto;
+  max-width: 1120px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 24px;
+}
+
+.card {
+  width: 260px;
+  height: 260px;
+}
